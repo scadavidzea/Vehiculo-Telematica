@@ -1,0 +1,27 @@
+# Archivos compilados
+*.exe
+*.class
+*.o
+*.out
+
+# Archivos de log
+*.log
+
+# Directorios de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos temporales
+*.tmp
+*.bak
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Herramientas de desarrollo
+.claude/
+.vscode/
+.idea/
