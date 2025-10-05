@@ -31,7 +31,6 @@ gcc -o server.exe server.c -lws2_32 -lpthread
 ## Cliente Java
 javac VehicleClient.java
 ## Cliente Python
-# No requiere compilación, solo verificar sintaxis
 python3 -m py_compile client_python.py
 ## Iniciar el servidor
 ## Linux/macOS
