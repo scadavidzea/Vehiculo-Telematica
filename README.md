@@ -30,21 +30,19 @@ gcc -o server server.c -lpthread
 gcc -o server.exe server.c -lws2_32 -lpthread
 ## Cliente Java
 javac VehicleClient.java
-# Cliente Python
+## Cliente Python
 ## No requiere compilación, solo verificar sintaxis
 python3 -m py_compile client_python.py
 ## Iniciar el servidor
 ## Linux/macOS
 ./server 8080 vehicle.log
-# Windows (MSYS/MinGW/CMD)
+## Windows (MSYS/MinGW/CMD)
 server.exe 8080 vehicle.log
 ## Cuenta de Administrador
 Usuario:admin
 Contraseña: admin123
-
 ## Windows
 server.exe 8080 vehicle.log
 El servidor estará escuchando en localhost:8080
-```
 
 
