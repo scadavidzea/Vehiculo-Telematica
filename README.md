@@ -42,6 +42,6 @@ Usuario:admin
 Contraseña: admin123
 ## Windows
 server.exe 8080 vehicle.log
-El servidor estará escuchando en localhost:8080
+# El servidor estará escuchando en localhost:8080
 
 
