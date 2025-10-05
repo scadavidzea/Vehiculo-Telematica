@@ -1,5 +1,5 @@
 # 🚗 Vehículo Telemática – Sistema de Telemetría
-Integrantes: Yessetk Rodriguez,Camilo Sanchez, Samuel Cadavid y Juan Sierra
+## Integrantes: Yessetk Rodriguez,Camilo Sanchez, Samuel Cadavid y Juan Sierra
 Sistema servidor-cliente para monitorear y controlar un vehículo autónomo con telemetría en tiempo real.  
 
 ## ⚙️ Requisitos
