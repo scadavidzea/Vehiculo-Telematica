@@ -23,25 +23,17 @@ Este proyecto implementa un sistema de telemetría que permite:
 
 # Compilacion manual
 
-## Linux/macOS
-gcc -o server server.c -lpthread
-
-## Windows con MinGW/MSYS 
+## MinGW/MSYS 
 gcc -o server.exe server.c -lws2_32 -lpthread
 ## Cliente Java
 javac VehicleClient.java
 ## Cliente Python
 python3 -m py_compile client_python.py
 ## Iniciar el servidor
-## Linux/macOS
-./server 8080 vehicle.log
-## Windows (MSYS/MinGW/CMD)
-server.exe 8080 vehicle.log
+./server.exe 8080 vehicle.log
 ## Cuenta de Administrador
 Usuario:admin
 Contraseña: admin123
-## Windows
-server.exe 8080 vehicle.log
-### El servidor estará escuchando en localhost:8080
+
 
 
