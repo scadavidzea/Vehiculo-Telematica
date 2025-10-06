@@ -8,6 +8,7 @@ Sistema cliente-servidor para monitoreo en tiempo real de vehículos autónomos 
 - **Camilo Sanchez**
 - **Samuel Cadavid**
 - **Juan Sierra**
+- Link del video de Youtube : https://www.youtube.com/watch?v=cIQIHxKmFew
 ---
 ##  Descripción
 
